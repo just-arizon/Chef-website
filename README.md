@@ -1,2 +1,3 @@
-# Chef-website
-Responsive web design using HTML, CSS and JAVASCRIPT
+# Plan
+1. Front-end Files: This includes HTML, CSS, and JavaScript files responsible for the visual presentation and interactivity of the website. It defines the structure, styling, and behavior of the user interface components, such as navigation menus, recipe cards, search forms, and other elements specific to kitchen-related content.
+2. Back-end Logic: The repository contains server-side code, such as server scripts, APIs, or serverless functions, that handle data processing, database interactions, and server operations. This logic is responsible for powering dynamic functionalities like user authentication, recipe management, search functionality, and handling user interactions.
